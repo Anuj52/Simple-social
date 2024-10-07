@@ -20,4 +20,4 @@ Space-social is a dynamic social media application designed to connect users thr
 1. Clone the repository:
 
    ```bash
-   [git clone https://github.com/yourusername/star-social.git](https://github.com/Anuj52/Space-social.git)
+   git clone https://github.com/yourusername/star-social.git
