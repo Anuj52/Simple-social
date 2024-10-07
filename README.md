@@ -20,4 +20,4 @@ Simple-social is a dynamic social media application designed to connect users th
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/simple-social.git
+   git clone https://github.com/yourusername/Simple-social.git
